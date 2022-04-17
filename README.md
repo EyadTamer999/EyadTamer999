@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eyad
-- 👀 I’m interested in Music, Video Games (huge geek in here lol), and 
+- 👀 I’m interested in Music 💿, Video Games 👾 (huge geek in here lol).
 - 🌱 I’m currently a comp sci student in the GIU
 - 💞️ I’m looking to collaborate on small or even big video game projects 🔥🎮
 - 📫 How to reach me @EyadHassan999 on Twitter and @eyadtamer999 on Instagram, also Eyad Hassan on Linkedin.
