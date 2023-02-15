@@ -7,17 +7,13 @@
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=EyadTamer999&show_icons=true&count_private=true&theme=nightowl&hide_border=true&hide=issues,contribs&bg_color=00000000">
   
-  <img height="50%" width="auto" src ="[https://github-readme-stats.vercel.app/api/top-langs/?username=EyadTamer999&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=5&]">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadTamer999&layout=compact&hide_border=true&theme=nightowl&bg_color=00000000&langs_count=5&">
   
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=EyadTamer999&theme=nightowl&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
-</p> -->
 <!---
 EyadTamer999/EyadTamer999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
