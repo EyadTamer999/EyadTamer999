@@ -9,10 +9,11 @@
   <br>
 </p>
 
+<div align="right">
+    <img src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="150" height="150" alt="Cool Kid">
+</div>
+
 - 👋 Hi, I’m Eyad
-- 👀 I’m interested in Music 💿, Video Games 👾, Movies 🎬
-- 🌱 I’m currently a cs student at the GIU
-- 💞️ I’m looking to collaborate on small or even big projects 🔥
 - 📫 How to reach me @EyadHassan999 on Twitter and @eyadtamer999 on Instagram, also Eyad Hassan on LinkedIn.
 
 
