@@ -12,13 +12,15 @@
 
 ---
 
+<div>
+  <a href="https://www.linkedin.com/in/eyad-hassan-a31b4a237/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       </a>
+       </div>
+
 <div align="right">
     <img src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="150" height="150" alt="Cool Kid">
 </div>
-
-- 👋 Hi, I’m Eyad
-- 📫 How to reach me @EyadHassan999 on Twitter and @eyadtamer999 on Instagram, also Eyad Hassan on LinkedIn.
-
 
 <!---
 EyadTamer999/EyadTamer999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
