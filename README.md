@@ -30,8 +30,7 @@
 
 <div>
     <img align="right" src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="150" height="150" alt="Cool Kid">
-
-[//]: # (    <img align="left" src="https://tenor.com/view/matrix-elmo-elmo-fire-meme-matrix-code-matrix-elmo-gif-24606391.gif" width="150" height="150" alt="elmo neo">)
+    <img align="left" src="https://tenor.com/view/matrix-elmo-elmo-fire-meme-matrix-code-matrix-elmo-gif-24606391.gif" width="150" height="150" alt="elmo neo">
 </div>
 
 <!---
