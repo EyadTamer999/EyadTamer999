@@ -9,24 +9,28 @@
 
 
 ---
+<div style="display: flex;flex-direction: row;">
+    <div style="margin-right: 10px;">
+        <a href="https://www.linkedin.com/in/eyad-hassan-a31b4a237/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> 
+        </a>
+    </div>
+    <div style="margin-right: 10px;">
+      <a href="https://twitter.com/EyadHassan999">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
+      </a>
+    </div>
+    <div style="margin-right: 10px;">
+      <a href="https://www.instagram.com/eyadtamer999/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+      </a>
+    </div>
 
-<div>
-    <a href="https://www.linkedin.com/in/eyad-hassan-a31b4a237/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> 
-    </a>
 </div>
 
 <div>
-  <a href="https://twitter.com/EyadHassan999">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
-  </a>
-</div>
-
-
-
-
-<div align="right">
-    <img src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="150" height="150" alt="Cool Kid">
+    <img align="right" src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="150" height="150" alt="Cool Kid">
+    <img align="left" src="https://tenor.com/view/matrix-elmo-elmo-fire-meme-matrix-code-matrix-elmo-gif-24606391.gif" width="150" height="150" alt="elmo neo">
 </div>
 
 <!---
