@@ -29,8 +29,10 @@
 </div>
 
 <div>
-    <img align="right" src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="300" height="300" alt="Cool Kid">
-    <img align="left" src="matrix-elmo.gif" width="300" height="300" alt="elmo neo">
+<!--     <img align="right" src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="320" height="320" alt="Cool Kid"> -->
+    <img align="right" src="matrix-elmo.gif" width="320" height="320" alt="elmo neo">
+<!--     <img align="left" src="ok-all.gif" width="320" height="320" alt="ok"> -->
+
 </div>
 
 <!---
