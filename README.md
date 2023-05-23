@@ -28,9 +28,9 @@
 
 </div>
 
-<div>
+<div style="align-content:center">
 <!--     <img align="right" src="https://media.tenor.com/F7Cd9OI_XRQAAAAC/kid-meme.gif" width="320" height="320" alt="Cool Kid"> -->
-    <img align="right" src="matrix-elmo.gif" width="320" height="320" alt="elmo neo">
+    <img src="matrix-elmo.gif" width="320" height="320" alt="elmo neo">
 <!--     <img align="left" src="ok-all.gif" width="320" height="320" alt="ok"> -->
 
 </div>
