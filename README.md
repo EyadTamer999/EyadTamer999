@@ -29,7 +29,7 @@
     <a href="https://github.com/EyadTamer999?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/EyadTamer999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/EyadTamer999">
-        <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/EyadTamer999?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
+<!--         <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/EyadTamer999?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a> -->
 </p>
 
 <!-- ## 📘 My top open source projects
