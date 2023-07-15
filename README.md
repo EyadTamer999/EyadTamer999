@@ -40,16 +40,13 @@
 </p> -->
 
 ## 🎮 Try pressing the buttons and come back down
+![](https://pokemon.farlow.dev/game)
+ 
+|                                    |                                      |                                     |                                     |                                       |
+| ---------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- | ------------------------------------- |
+|                                    | [⬆️](https://pokemon.farlow.dev/input/UP)    |                                      | [🅱️](https://pokemon.farlow.dev/input/B)     | [🅰️](https://pokemon.farlow.dev/input/A)      |
+| [⬅️](https://pokemon.farlow.dev/input/LEFT) | [⬇️](https://pokemon.farlow.dev/input/DOWN)  | [➡️](https://pokemon.farlow.dev/input/RIGHT) | [⏺️](https://pokemon.farlow.dev/input/START) | [⏏️](https://pokemon.farlow.dev/input/SELECT) |
 
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
-
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/EyadTamer999"><img src="https://raw.githubusercontent.com/EyadTamer999/EyadTamer999/main/images/start.png" height="35" /></a>
-  </div>
 
 <!---
 EyadTamer999/EyadTamer999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
