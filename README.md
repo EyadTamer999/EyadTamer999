@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=180&section=header&text=Eyad%20Tamer&fontSize=60&fontColor=00FF41&fontAlignY=35&desc=Hack%20the%20planet%20%F0%9F%8C%8D&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Wake+up%2C+Neo...;Full-stack+dev+%7C+TypeScript+%E2%80%A2+Vue+%E2%80%A2+Next.js;Building+games+in+Godot+%F0%9F%8E%AE;Linux+tinkerer+%F0%9F%90%A7+(Fedora+btw);Follow+the+white+rabbit+%F0%9F%90%87" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Wake+up%2C+Neo...;Full-stack+dev+%40+Salem+Ventures;TypeScript+%E2%80%A2+Vue+%E2%80%A2+Next.js;Building+games+in+Godot+%F0%9F%8E%AE;Linux+tinkerer+%F0%9F%90%A7+(Fedora+btw);Follow+the+white+rabbit+%F0%9F%90%87" alt="Typing SVG"/></a>
 
 <img src="matrix-elmo.gif" width="300" alt="elmo neo"/>
 
@@ -22,8 +22,9 @@
 
 ```yaml
 name:      Eyad Tamer
+work:      Full-stack developer @ Salem Ventures
 school:    German International University (Cairo)
-role:      Full-stack developer & indie game dev
+side:      indie game dev, Linux tinkerer
 currently: shipping web apps, hacking on Linux tooling, making games in Godot
 os:        Fedora 🐧  # and yes, I will tell you about it
 motto:     "There is no spoon."
